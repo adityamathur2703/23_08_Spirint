@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kpit/Desktop/TEST_KATAPULT/23_08/Ques_5/Main.cpp
+iostream
+-
+vector
+-
+cmath
+-
+gtest/gtest.h
+-
+

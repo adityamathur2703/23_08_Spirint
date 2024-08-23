@@ -1,0 +1,4 @@
+/home/kpit/Desktop/TEST_KATAPULT/23_08/Ques_5/CMakeFiles/rebuild_cache.dir
+/home/kpit/Desktop/TEST_KATAPULT/23_08/Ques_5/CMakeFiles/edit_cache.dir
+/home/kpit/Desktop/TEST_KATAPULT/23_08/Ques_5/CMakeFiles/test.dir
+/home/kpit/Desktop/TEST_KATAPULT/23_08/Ques_5/CMakeFiles/Test.dir
